@@ -792,6 +792,10 @@ open_to:
   - Data Analyst Internship
   - AI/ML Internship
   - Open Source Collaboration
+```
+
+---
+
 <!-- ========================================= -->
 <!--           CONNECT • SUPPORT • FOOTER      -->
 <!--                 PART 5                    -->
