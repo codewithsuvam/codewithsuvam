@@ -216,10 +216,6 @@ I believe in writing clean, maintainable code and constantly improving through p
 </p>
 
 ---
-
-**➡️ End of Part 1**
-
-The next part will contain the **Featured Projects** section with enterprise-style collapsible project cards, professional metrics tables, and detailed project descriptions.
 <!-- ========================================= -->
 <!--           FEATURED PROJECTS               -->
 <!--                 PART 2                    -->
@@ -512,7 +508,6 @@ Personal finance management application designed to monitor daily expenses, cate
 
 ---
 
-**➡️ End of Part 2**
 <!-- ========================================= -->
 <!--       EXPERIENCE & CREDENTIALS            -->
 <!--                 PART 3                    -->
@@ -695,7 +690,6 @@ Software & AI Engineering Growth
 
 ---
 
-**➡️ End of Part 3**
 <!-- ========================================= -->
 <!--        GITHUB ANALYTICS & INSIGHTS        -->
 <!--                 PART 4                    -->
@@ -717,7 +711,7 @@ Software & AI Engineering Growth
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=codewithsuvam&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=codewithsuvam&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
@@ -728,16 +722,6 @@ Software & AI Engineering Growth
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsuvam&theme=tokyo-night&hide_border=true&radius=15"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithsuvam&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
